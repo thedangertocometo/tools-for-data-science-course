@@ -1,0 +1,9 @@
+通过一下几行代码，登录到github并连接
+ git remote add origin https://github.com/thedangertocometo/git-study.git
+ git branch -M master
+ ssh-keygen
+ git push -u origin master
+ 创建gitstudy2
+ git clone git@github.com:thedangertocometo/tools-for-data-science-course.git
+ 用fork 功能将老师的文件复制
+ 
